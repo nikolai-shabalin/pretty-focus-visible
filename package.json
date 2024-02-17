@@ -1,6 +1,6 @@
 {
   "name": "pretty-focus-visible",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "description": "beautiful default focus state",
   "style": "styles.css",
   "keywords": ["focus", "focus-visible"],
@@ -11,10 +11,7 @@
   "license": "ISC",
   "exports": {
     ".": {
-      "import": "./styles.css"
-    },
-    "./scss": {
-      "import": "./styles.scss"
+      "sass": "./styles.scss"
     }
   },
   "type": "module"
