@@ -11,7 +11,7 @@
   "license": "ISC",
   "exports": {
     ".": {
-      "sass": "./styles.scss"
+      "sass": "./index.scss"
     }
   },
   "type": "module"
