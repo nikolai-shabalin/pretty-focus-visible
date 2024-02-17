@@ -1,0 +1,12 @@
+{
+  "name": "pretty-focus-visible",
+  "version": "1.0.0",
+  "description": "beautiful default focus state",
+  "style": "styles.css",
+  "keywords": ["focus", "focus-visible"],
+  "author": {
+    "name": "Nikolay Shabalin",
+    "email": "dev.nikolai.shabalin@gmail.com"
+  },
+  "license": "ISC"
+}
